@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips mod 1","desc":"The gaming industry has witnessed tremendous growth and innovation over the years, with developers constantly pushing the boundaries of what is possible.","photo":"https://iili.io/HUnMuDP.jpg"},
+  {"title":"how to use this app 2","desc":"One of the latest innovations that has captured the attention of gamers worldwide is PK Mod 2023. PK Mod 2023 is a highly anticipated modification, or mod, that promises to revolutionize the gaming experience","photo":"https://iili.io/HUnM5WF.jpg"},
+  {"title":"advice pack 3","desc":" offering players a new level of immersion and customization. In this article, we will explore the features, potential impact, and implications of PK Mod 2023.","photo":"https://iili.io/HUnMRx1.jpg"},
+  {"title":"helper mod 4","desc":"PK Mod 2023 is a comprehensive modification for video games that aims to enhance various aspects of gameplay, graphics, and mechanics. Developed by a dedicated team of passionate modders,","photo":"https://iili.io/HUnM7ig.jpg"},
+  {"title":"advance pack 5","desc":"PK Mod 2023 incorporates new features and functionalities into existing games, creating an entirely unique experience for players. This mod is designed to work with multiple games across different genres, providing a wide range of options for gamers to choose from.","photo":"https://iili.io/HUnMafa.jpg"},
+  {"title":"tips mod 6","desc":"One of the standout features of PK Mod 2023 is its ability to significantly enhance graphics and visual effects. The mod utilizes advanced rendering techniques, such as ray tracing and improved texture mapping, ","photo":"https://iili.io/HUnMlUv.jpg"},
+  {"title":"helper pack 7","desc":"to create stunningly realistic environments and lifelike characters. Players will be immersed in highly detailed worlds, with enhanced lighting, shadows, and particle effects that elevate the overall visual experience.","photo":"https://iili.io/HUnM1JR.jpg"},
+  {"title":"how to use this app 8","desc":"PK Mod 2023 introduces new gameplay mechanics that add depth and complexity to existing games. Whether it's introducing new combat techniques, expanding character progression systems, or introducing unique quests and challenges, ","photo":"https://iili.io/HUnMc0J.webp"}
    ]
  
 }
